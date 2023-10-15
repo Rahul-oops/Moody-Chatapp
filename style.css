@@ -1,0 +1,66 @@
+
+
+.back-top{
+ background-color:  #0c80de;
+ height: 15vh;
+}
+
+.back-main{
+ background-color:  #4973de;
+ height: 85vh;
+}
+
+.back-container{
+ position: relative;
+}
+
+.front-container{
+ position: absolute;
+ top:0;
+ left:0;
+ right: 0;
+}
+.front-container1{
+ position: absolute;
+ top:20px;
+ left:0;
+ right: 0;
+}
+
+.chat-top{
+ background-color: #cf9efd;
+ min-height: 50px;
+}
+
+.profile-image{
+ margin-top: 7px;
+ height: 30px;
+ width: 30px;
+}
+
+.contacts{
+ background-color: #cecfe7;
+ min-height: 600px;
+}
+
+.contact-table-scroll{
+ overflow-y: scroll;
+ height: 600px;
+}
+
+.message-area{
+ background-color:  #e2e0e4;
+ min-height: 600px;
+}
+
+.message-table-scroll{
+ overflow-y: scroll;
+ height: 550px;
+}
+
+.message-box{
+ background-color: #F0F0F0;
+}
+.row {
+    background-color: rgb(245, 236, 223);
+}
